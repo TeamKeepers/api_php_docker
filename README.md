@@ -1,5 +1,5 @@
 # Simple API in PHP using Docker
-Simple API in PHP using no framework.
+Simple API in Vanilla PHP (no framework).
 You could GET information, sort it and filter it regarding the different categories: title, tags, id.
 
 **Tech: PHP, Docker-compose**
